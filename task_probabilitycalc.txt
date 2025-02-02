@@ -1,0 +1,1 @@
+"Doctors find that people with Kreufeld-Jacob disease (KJ) almost invariably at hamburgers, thus p(Hamburger Eater|KJ) = 0.9. The probability of an individual having KJ is currently rather low, about one in 100000. What is the probability that a hamburger eater will have Kreufeld-Jacob disease?" Assume that the probability of an individual eats hamburgers is 0.5.

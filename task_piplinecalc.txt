@@ -1,0 +1,1 @@
+A pipeline of 4,000 meters is to be laid by 22 workers in 64 workdays, with each day consisting of 8 hours. After 10 workdays, 3 workers drop out. How many overtime hours would each of the remaining workers need to work per day to complete the now 5,000-meter pipeline on schedule (by the 64th workday)?
